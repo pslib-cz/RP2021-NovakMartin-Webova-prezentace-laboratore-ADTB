@@ -1,0 +1,100 @@
+@media only screen and (min-width: 640px) {
+
+    .main {
+        width: 92.45vw;
+        margin: 0 auto;
+        justify-content: right;
+    }
+
+    .a_stroj {
+        width: 44vw;
+        height: 34.22vw;
+        margin-top: 3.9vw;
+    }
+
+    .a_stroj:nth-child(even) {
+        margin-left: auto;
+    }
+
+    .imgcontainer {
+        height: 77%;
+    }
+
+    .title {
+        font-size: 6.95vw;
+    }
+    
+    .h2_MS {
+        font-size: 2.9vw;
+    }
+
+    .a_logo {
+        height: 15.89vw;
+        width: 15.89vw;
+    }
+
+}
+
+@media only screen and (min-width: 920px) {
+    .header {
+        width: 92.45vw;
+        flex-direction: row;
+        margin: 4.88vw auto 1vw;
+    }
+
+    .title {
+        font-size: 6vw;
+        margin: auto 0;
+    }
+
+    .a_logo {
+        height: 11.91vw;
+        width: 11.91vw;
+        margin: 0;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (min-width: 1150px) {
+
+    .header {
+        width: 91.25vw;
+    }
+
+    .a_logo {
+        width: 10.41vw;
+        height: 10.41vw;
+    }
+
+    .title {
+        font-size: 5.155vw;
+        margin-left: 9.646%;
+        margin-right: 9.646%;
+    }
+
+    .main {
+        flex-basis: 33%;
+        width: 91.25vw;
+    }
+
+    .a_stroj {
+        width: 28.64vw;
+        height: 22.27vw;
+    }
+
+    .a_stroj:nth-child(even) {
+        margin-left: 0;
+    }
+
+    .a_stroj:nth-child(3n+2) {
+        margin-left: auto;
+    }
+    .a_stroj:nth-child(3n+3) {
+        margin-left: auto;
+    }
+
+    .h2_MS {
+        font-size: 1.74vw;
+    }
+
+}

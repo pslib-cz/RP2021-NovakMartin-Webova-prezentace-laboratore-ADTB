@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Prometo ';
+    src: local('Prometo  Medium'), local('Prometo--Medium'),
+        url('Prometo-Medium.woff2') format('woff2'),
+        url('Prometo-Medium.woff') format('woff'),
+        url('Prometo-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }

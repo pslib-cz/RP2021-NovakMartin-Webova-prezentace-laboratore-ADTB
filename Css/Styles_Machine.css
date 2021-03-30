@@ -1,0 +1,95 @@
+main {
+    width: 91.666vw;
+    margin: 0 auto;
+}
+
+.Copyright {
+    padding: 22px;
+}
+
+.logo {
+    height: 100%;
+    width: 100%;
+}
+
+.a_logo {
+    height: 19.444vw;
+    width: 19.444vw;
+    margin: 0 auto;
+    margin-top: 8.33%;
+}
+
+.imgcontainer {
+    width: 91.666vw;
+    height: 60vw;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-top: 3%;
+}
+
+.imgcontainer_2 {
+    width: 48.5%;
+    height: 29.4vw;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-top: 3%;
+}
+
+.img_extra {
+    display: flex;
+    flex-basis: 50%;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.imgcontainer_2:nth-child(even) {
+    margin-left: 3%;
+}
+
+.img {
+    width: 100%;
+    box-sizing: content-box;
+    margin:  0;
+}
+
+.inf {
+    margin: 0 auto;
+    width: 91.666vw;
+}
+
+.aplication {
+    width: 91.666vw;
+    margin: 0 auto;
+}
+
+.title {
+    margin-bottom: 0;
+}
+
+.h3_M {
+    margin-bottom: 0;
+}
+
+.type {
+    width: 45%;
+}
+
+.value {
+    width: 55%;
+}
+
+.type_SD1 {
+    width: 50%;
+}
+
+.value_SD1 {
+    width: 50%;
+}
+
+.main_SD1 {
+    margin-bottom: 20%;
+}
+
+.MP_dynamometer_6 {
+    height: initial;
+}

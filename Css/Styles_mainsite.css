@@ -1,0 +1,65 @@
+
+.Copyright {
+    padding: 22px;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.a_stroj {
+    width: 78vw;
+    height: 56vw;
+    margin-top: 4%;
+}
+
+.a_stroj:hover {
+    opacity: 50%;
+
+}
+
+.stroj {
+    width: 100%;
+    height: 100%;
+    border: 1px solid #BFEAF9;
+}
+
+.stroj:hover {
+    border: 1px solid #004D7A;
+}
+
+.imgcontainer {
+    width: 93%;
+    height: 81.25%;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-top: 3%;
+}
+
+.img_MS {
+    width: 100%;
+}
+
+.h2_MS {
+    margin: 0;
+    margin-top: 1%;
+}
+
+.logo {
+    height: 100%;
+    width: 100%;
+}
+
+.a_logo {
+    height: 19.444vw;
+    width: 19.444vw;
+    margin: 0 auto;
+    margin-top: 8.33%;
+}
+
+.footer {
+    margin-top: 20%;
+}

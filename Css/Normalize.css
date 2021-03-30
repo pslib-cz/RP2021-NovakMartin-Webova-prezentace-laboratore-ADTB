@@ -1,0 +1,56 @@
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+a {
+    display: block;
+    color: #7FA5BC;
+    text-decoration: none;
+}
+
+body {
+    display: block;
+    margin: 0;
+    font-family: 'Verdana';
+}
+
+main {
+    margin-bottom: 5vw;
+}
+footer {
+    width: 100%;
+    height: 64px;
+    text-align: center;
+    margin-top: 10%;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    margin-bottom: 0;
+    font-family: 'Prometo ';
+    font-weight: 100;
+}
+
+span {
+    display: block;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+    font-size: 4.2vw;
+}
+
+th {
+    text-align: left;
+    vertical-align: top;
+    font-size: 3.6vw;
+}
+

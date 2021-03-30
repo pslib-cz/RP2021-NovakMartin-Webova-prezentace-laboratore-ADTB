@@ -1,0 +1,168 @@
+
+@media only screen and (min-width: 640px) {
+
+    .main {
+        width: 94.8vw;
+        margin: 0 auto;
+        margin-bottom: auto;
+    }
+
+    .title {
+        font-size: 5.4vw;
+    }
+
+    .a_logo {
+        height: 15.89vw;
+        width: 15.89vw;
+    }
+
+    .imgcontainer {
+        width: 70.31vw;
+        height: 46.22vw;
+    }
+
+    .h2_M {
+        font-size: 5.2vw;
+    }
+
+    .p_aplication {
+        font-size: 3.4vw;
+    }
+
+    .type, .value {
+        font-size: 2.4vw;
+        width: 50%;
+    }
+    .img_extra {
+        width: 70.31vw;
+        margin: 0 auto;
+    }
+
+    .imgcontainer_2 {
+        width: 49.25%;
+        height: 22vw;
+        margin-top: 1.5%;
+    }
+
+    .imgcontainer_2:nth-child(even) {
+        margin-left: 1.5%;
+    }
+
+    .h3_M {
+        font-size: 4.35vw;
+    }
+
+    .MP_dynamometer_6 {
+        height: initial;
+    } 
+
+}
+
+@media only screen and (min-width: 920px) {
+    .header {
+        width: 92.45vw;
+        flex-direction: row;
+        margin: 4.88vw auto 1vw;
+    }
+
+    .title {
+        font-size: 4.7vw;
+        margin: auto 0;
+        margin-right: auto;
+    }
+
+    .a_logo {
+        height: 11.91vw;
+        width: 11.91vw;
+        margin: 0;
+        margin-right: auto;
+    } 
+
+    .imgcontainer {
+        width: 69.14vw;
+        height: 45.25vw;
+    }
+
+    .img_extra {
+        width: 69.14vw;
+    }
+
+    .h2_M {
+        font-size: 4.5vw;
+    }
+
+    .p_aplication {
+        font-size: 3.2vw;
+    }
+
+    .h3_M {
+        font-size: 4vw;
+    }
+
+    .MP_dynamometer_6 {
+        height: initial;
+    }
+
+    .type, .value {
+        font-size: 2.24vw;
+    }
+}
+
+@media only screen and (min-width: 1150px) {
+
+    .header {
+        width: 91.25vw;
+    }
+
+    .a_logo {
+        width: 10.41vw;
+        height: 10.41vw;
+    }
+
+    .title {
+        font-size: 5.155vw;
+    }
+
+    .imgcontainer {
+        width: 50.2vw;
+        height: 32vw;
+        margin-left: 0;
+        margin-right: 0;
+        grid-row: 1/4;
+    }
+
+    .main_M {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 2fr;
+    }
+
+    .h2_M {
+        font-size: 3vw;
+        margin-bottom: 1%;
+    }
+
+    .type, .value {
+        font-size: 1.5vw;
+    }
+
+    .parameters {
+        width: 100%;
+    }
+
+    .inf {
+        width: 90%;
+    }
+
+    .p_aplication {
+        font-size: 1.95vw;
+        margin-bottom: 0;
+        width: 100%;
+    }
+
+    .aplication {
+        width: initial;
+        margin: 0;
+    }
+
+}
