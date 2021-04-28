@@ -54,7 +54,16 @@
 
     .MP_dynamometer_6 {
         height: initial;
-    } 
+    }
+
+    .parameters p {
+        font-size: 3vw;
+    }
+    
+    .imgcontainer_horizontal {
+        width: 65vw;
+        height: auto;
+    }
 
 }
 
@@ -105,6 +114,15 @@
 
     .type, .value {
         font-size: 2.24vw;
+    }
+
+    .parameters p {
+        font-size: 2.8vw;
+    }
+
+    .imgcontainer_horizontal {
+        width: 55vw;
+        height: auto;
     }
 }
 
@@ -165,4 +183,26 @@
         margin: 0;
     }
 
+    .parameters p {
+        font-size: 1.6vw;
+    }
+
+    .imgcontainer_center1050px {
+        margin-top: 20%;
+    }
+
+    .imgcontainer_horizontal {
+        width: 40vw;
+        height: auto;
+        margin-left: 5vw;
+        margin-right: 5vw;
+    }
+
+    footer {
+        margin-top: 5%;
+    }
+    
+    .footer_initial {
+        margin-top: initial;
+    }
 }

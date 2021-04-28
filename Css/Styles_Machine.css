@@ -78,18 +78,27 @@ main {
     width: 55%;
 }
 
-.type_SD1 {
+.type_5050 {
     width: 50%;
 }
 
-.value_SD1 {
+.value_5050 {
     width: 50%;
 }
 
-.main_SD1 {
-    margin-bottom: 20%;
+.type_onecolumn {
+    text-align: center;
 }
 
 .MP_dynamometer_6 {
     height: initial;
+}
+
+.parameters p {
+    font-size: 4vw;
+}
+
+.imgcontainer_horizontal {
+    width: 65vw;
+    height: auto;
 }
