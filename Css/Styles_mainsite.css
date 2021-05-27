@@ -18,17 +18,12 @@
 
 .a_stroj:hover {
     opacity: 50%;
-
 }
 
 .stroj {
     width: 100%;
     height: 100%;
     border: 1px solid #BFEAF9;
-}
-
-.stroj:hover {
-    border: 1px solid #004D7A;
 }
 
 .imgcontainer {
