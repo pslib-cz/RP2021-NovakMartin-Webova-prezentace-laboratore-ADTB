@@ -87,8 +87,9 @@
     }
 
     .a_stroj:nth-child(3n+2) {
-        margin-left: auto;
+        margin-left: 2.6vw;
     }
+    
     .a_stroj:nth-child(3n+3) {
         margin-left: auto;
     }
